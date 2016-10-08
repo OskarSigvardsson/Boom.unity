@@ -19,6 +19,6 @@ even on my ancient MacBook Pro. Since this was just a quick project, I didn't
 clean up the code too much and haven't made extensive comments, but would be
 happy to do so if requested. 
 
-To generate the Voronoi diagram I use the (this library for
-c#)[https://github.com/PouletFrit/csDelaunay], as experience have taught me that
+To generate the Voronoi diagram I use the [this library for
+c#](https://github.com/PouletFrit/csDelaunay), as experience have taught me that
 reimplementing Fortune's algorithm is no fun :)
